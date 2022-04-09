@@ -2,7 +2,8 @@
 
 
 - 👋 Hi, I’m Fasil Getie
-- 👀 I’m interested in flutter,java,python,c,c++,django,nodejs,javascript,html,css...
+- 👋 I'M Full-Stack Developer
+- 👀 I’m interested in HTML, CSS, JavaScript, C, C++, Java, Python, Flutter, Django, NodeJS, ...
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on mobile app and web app projects
 - 📫 How to reach me fasilgetie12@gmail.com
