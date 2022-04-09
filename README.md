@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-👋 Hi, I’m Fasil Getie
-👀 I’m interested in flutter,java,python,c,c++,django,nodejs,javascript,html,css...
-🌱 I’m currently learning Software Engineering
-💞️ I’m looking to collaborate on mobile app and web app projects
-📫 How to reach me fasilgetie12@gmail.com
+- 👋 Hi, I’m Fasil Getie
+- 👀 I’m interested in flutter,java,python,c,c++,django,nodejs,javascript,html,css...
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on mobile app and web app projects
+- 📫 How to reach me fasilgetie12@gmail.com
 
 <!--
 **fasil712/fasil712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
